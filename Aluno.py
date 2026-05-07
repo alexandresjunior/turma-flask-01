@@ -8,4 +8,7 @@ class Aluno():
 
     def login(self, email, senha):
         print('Login realizado com sucesso!')
+
+    def logout(self):
+        print('Logout feito com sucesso!')
     
